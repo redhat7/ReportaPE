@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/b6032758e6e4d6330f7223f9997e82fd022f4a65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21c3bac38d605533b01db6712ebcd658bd2d4f09/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/3b28c07bc2de18774c502e5fbe274418697bce43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d393ba23ebe8ff3ba7a5e3971699eb7312c114e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/7cedf2380d5fed59a29f5d4ea6585511db692477/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db0bd38dfaea0d4686b3c0ce3c555774fe67e660/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/936421f8f9cdaf6acbff322ba7fed6485ae9d552/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_323b0a236f57d437690712476ed3f9e00cb9919a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/9503f0b7d4e4e9980d9edcf70d30ba4925076588/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9749228a78cd28ba72b78fc0cc943fabd6db634/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/318f31fb24eabf5073175704f38d891b771024e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a78f9fd8066b0e68bb03156c171d6d8848b95b3f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/b475f4e39d0cd368850fc2772a7b4dc8db9854b3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92a88faa8fd958ab7244027f7d0216c587d8793b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3472c9ca2ae92c084ad28a1feca994a3c1728c72">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa35677da523cd6ec210d2d258dbcb372c7c22d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/3c9f07b8ca5defbd9e76faa2b1e3541ac27825df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_eca152a74a8a6dec6daa7e785fe90d69ecd49fc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/837888790217124a32003db4842c07ff652db262/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfd8b49217410624edcf0c9253d45e0d64feaab5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/517fcb296cae7b05a8f088c5456882b92f912260/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bda7601f8833d941ba987fcd5ef90551177dba81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_a1859f415ef11b9707e1c28c9793765ae6ea47b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/e833d96739c5f314b9868105541fb988d87a483b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b8a264c1733e45ffc54e0fb19d0081b119d82083/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/34338203648cb79b2ed728543698f0557e7c6b18/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d60a257996ae22687ac88b28acb97bbd382554f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/f576a6fa2ed44ccbc532519b7f7850545437b433/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c1cbfe500940c93da83bcc5ac70605e74449d9f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/c284596fc734d96d13d786f06b2e10922ae15e71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1250e88f4b2764043fe4b9c921e83c4d42c5a745">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a941ae15863b45df4bffa8401038aeabe28b21f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/ab545e9b90e120a3ed3187263517ca66ad2c597a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cb26cd9855a93c42090aa7f3827c0c36f448e74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0ddbc4f67469b8f682b45ef8d0a7c3fb2520ef0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/ad65296dfe7e00e259b835e18a7a7de41fb03bcc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ad74db92115b4a7ddef2aa913abc4540c434fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/20824d73fd56390ddf9935a8b0ebfbba3549ad50/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2c1dd5f388de9ad57830a58cf278e5da5d0146f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/4241d5bdbb75b0a271f5ce389f4a5da3ad823434/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_633883d39cf82f8a4c0ecc8a989c31d1a86a0dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_c6d047ea41ec1e5645ce395748e64357c54473dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/01532ad4e4efec95a6bd26c854637b6a68c74cc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ecb5e64f0daded521b55fe29176448fc54cacc7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.android/build-cache/d4ff6a09287b35f7a077655c8568b02b2fde7277/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/Instalar carlos/ReportaPe/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7db927ecae024b8eae7a3da552b43fb6a3542640/classes.dex" />
+    </item>
+
+</items>

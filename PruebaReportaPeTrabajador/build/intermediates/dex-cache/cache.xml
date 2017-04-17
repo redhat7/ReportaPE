@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_697b3d20a00791936b278f37ebbceb3c5e824663/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3244f54763337124d47531cda4ebd86062e7640c">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_45e98556ba7492e0d0fae7c94904fcf4dbb51fa6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.2.0_75048a0d6c804196be809c2301c82765cc2716d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_a70baf1b927e867273295a72a58dd717284281b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_26ccd24aea2652850c2083253d4c0d97dc1ca09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.2.0_682031251476b089bdc6360bea4c171907c88495/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_b8c006d53a4f95fd521630b75297e1f677361861/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_f624c0086c7acfe1cf2b2672aa3c7c9a2b208112/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_e5006af2c02a6fc3a3f68b4426f634189b5b5b39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.2.0_a1d833b784370446fb1254353b56dcf7720dc723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.dinuscxj/recyclerrefreshlayout/2.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825bb923763e871d00fe0f7184869c5424f090d2">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.dinuscxj-recyclerrefreshlayout-2.0.1_57e721c554d60f61f99e8889bf04e7f996d7d026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_4272e0a005c403516aea7939c3629443307fbdd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c941fcdd1b2fef688712d166b1ea6514b9861736">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_73ccba09b36f2d32dc0bcc14f7b24d3051840c33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.2.0_0588ba51c91c8ae6d70221fb7523bd87ed0df7a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.2.0_49888e8060864829cbdd62043a41ecb1bb34c457/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_96702d74b466b6f532d4399ed01c7acdb054cc56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_7fa9af149e57555e5dd9dcc03369b753c92be221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.5.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.5.1_4f97c92ca35f9b415291bfc2abcfc3dd325f8f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.2.0_8f1e17c7bf2f8dfb11dd26f33b37e3c61fe680c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.5.1/bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc/butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.5.1_17cb36e30941d3d1011c9380dbb7f946a85e2b6a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30a4938ea5235ccf532b3e9f04200e68547e36ad">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.2.0_79aa8df28d0f6051280ae0072fbf21df1ec9cdca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.2.0_3ceea62258285d296aa19656e7ca05ab80a219a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/cn.pedant.sweetalert/library/1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c3529d9491be892952749d252ae1defa9b1f937">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/cn.pedant.sweetalert-library-1.3_9bc8d7d9b5ad7cbff9891399e81428ff5e21851b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_ff02ab8603005226d7098753aea4a00a4302d919/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_2314a3058094c410291f0489101a770dcc73df67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.2.0_856b0cde56df52a272c8bd08f5070d65d39d28ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.2.0_257df3d3dd65191e2c5a5616122a1a379fb0b336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_dd97e3372ce55d18fd08ceda6f1e98b8a9ebd708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57487745ce450899f9f250d5ae5c092a682cd041">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.0_5fd29ca0a41f226921139c09296585f3fefc25f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/linuxdesarrollo01/Documentos/Capsula/prueba/PruebaReportaPeTrabajador/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.2.0_27638d9a703a9dcfd18cf43b37ebaad85fa7e51c/classes.dex" />
+    </item>
+
+</items>

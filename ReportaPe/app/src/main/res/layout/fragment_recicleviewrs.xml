@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="10dp"
+    android:background="#FFFFFF"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/btn_reportar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        android:layout_marginBottom="7dp"
+        android:textColor="#FFFFFF"
+        android:text="REPORTA AQUÍ"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvReportes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v7.widget.RecyclerView>
+</LinearLayout>

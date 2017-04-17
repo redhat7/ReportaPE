@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReportaPeTrabajador</string>
+    <string name="direccion_reporte">Dirección</string>
+    <string name="date_report"> 20/15/2017</string>
+    <string name="cant_reports"> 45 reportes</string>
+
+    <string name="google_appid">AIzaSyBgLxPnHlfgYlAeCVZT3AQ2X2EsC9U-MRc</string>
+</resources>

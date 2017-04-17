@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">ReportaPe</string>
+    <string name="registro">Registrate con:</string>
+    <string name="politicas">Políticas de privacidad</string>
+    <string name="empresa">Cápsula Digital</string>
+    <string name="btn_pantall1"></string>
+    <string name="tomar_foto">Tomar Foto</string>
+
+
+    <!--  Strings CardView  -->
+    <string name="hora_reporte">14:00</string>
+    <string name="direccion">Av. La Marina</string>
+    <string name="fecha_reporte">30/12/2016</string>
+    <string name="btn_estado1">Atendido</string>
+
+    <!--   Navigation Drawer  -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--   Nosotros -->
+    <string name="title_activity_nosotros">Conócenos</string>
+    <string name="largeText">
+        Lorem Ipsum es simplemente el texto de relleno de las imprentas
+        y archivos de texto.\n\n
+        Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+        desde el año 1500.
+    </string>
+    <string name="short_text">
+        Team Reporta
+    </string>
+
+    <!--   Terminos y Condiciones -->
+    <string name="title_activity_condiciones">Términos y Condiciones</string>
+    <string name="large_text">
+        Lorem Ipsum es simplemente el texto de relleno de las imprentas
+        y archivos de texto.\n\n
+        Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+        desde el año 1500.
+    </string>
+    <string name="textCondiciones">
+
+        * Lorem Ipsum es simplemente el texto de relleno de las imprentas
+        y archivos de texto.\n\n
+        * Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+        desde el año 1500.\n\n
+        * Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+        desde el año 1500.
+    </string>
+     <string name="importanteText">
+        Lorem Ipsum es simplemente el texto de relleno de las imprentas
+        y archivos de texto.\n\n
+        Lorem Ipsum ha sido el texto de relleno estándar de las industrias
+        desde el año 1500.
+    </string>
+
+    <!--   Inicio -->
+    <string name="derechos_reservados">
+         © 2017 Todos los derechos reservados - Cápsula Digital
+    </string>
+
+
+    <string name="ok"> Aceptar </string>
+    <string name="cancel"> Cancelar </string>
+</resources>

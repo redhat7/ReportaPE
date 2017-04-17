@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1085260165291",
+    "project_id": "reportapeclave"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085260165291:android:d2150fb35093b8c3",
+        "android_client_info": {
+          "package_name": "com.example.capsula.reportape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085260165291-jsdr7hkll3r2k7419phc6g0o2rle8cup.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1085260165291-e48rhomrj93stineo3dgjv6c6n817347.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capsula.reportape",
+            "certificate_hash": "877515033953c7375b88f39b2e3f89af4a6de4d9"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVMJvkI0qhcyel4_8xb_TDIF9fHmJPyxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
