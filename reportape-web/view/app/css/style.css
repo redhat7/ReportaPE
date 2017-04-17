@@ -1,0 +1,255 @@
+
+body { 
+	background:#ffffff;
+	}
+
+.img-c{
+  	position: relative;
+  	margin: auto;
+
+}
+
+.visible-sec{
+	display: block !important;
+}
+.hidden-sec{
+	display: none !important;
+}
+
+.text-just{
+  	text-align: justify !important;
+
+}
+
+.btn-cantRepo{
+	background: transparent;
+	border: none;
+}
+
+li a{
+	background: transparent !important;
+}
+
+.on_privilegio{
+	display: none;
+}
+
+.off_privilegio{
+	display: block;
+}
+
+.form-input{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+input
+,select{
+	height: 50px !important;
+}
+
+option{
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
+}
+
+/*nav css*/
+.navbar-inverse {
+	background-color: #ffffff;
+	border-radius: 0px;
+	height:112px;
+	width:100%;
+	position: fixed;
+	z-index: 999;
+	border: 0px solid;
+    -webkit-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);
+	transition:all ease 0.8s;
+    -moz-box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 2px 7px 0px rgba(0,0,0,0.75);
+	}
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+	color:rgb(0, 4, 51) !important;
+	background-color: #0e364c;
+	}
+.navbar-brand {
+	padding: 0;
+	margin-left: 0px !important;
+	}
+.navbar-brand img { 
+	height:50px;
+	margin-left: 20px;
+	margin-top: 9%;
+	transition:all ease 0.8s;
+	}
+.navbar-inverse .navbar-nav>li>a {
+	color:#006897;
+	font-family: 'Open Sans', sans-serif;
+	line-height:3;
+ 	font-weight: bold;
+	}
+.navbar-inverse .navbar-nav>li>a:hover, .navbar-inverse .navbar-nav>li>a:focus {
+	color:rgb(0, 4, 51) !important;
+	}
+.menu { 
+	display:none;
+	}
+
+
+/*nav css close*/
+
+
+
+@media all and (max-width:768px){
+
+.navbar-inverse .drop_menu {
+	display: block;
+	visibility: visible;
+	width: 110px;
+	height:1000px;
+	padding:0px 20px;
+	position: absolute;
+	right:-100px;
+	transition:all ease 0.5s;
+	border-top: 0px solid;
+	cursor: pointer;
+	background: gray;
+	}
+.navbar-brand {
+	padding: 0;
+	margin-left: 10px !important;
+	}
+a.menu { 
+	display:block !important;
+	margin: 9px 2px;
+	float: right;
+	color: #006897;
+	border:0px solid;
+	background:none;
+	font-size:30px;
+ 	width:27px;
+	position: relative;
+	
+cursor:pointer;
+	}
+a.menu:hover, a.menu:focus { 
+	color:rgb(0, 4, 51);
+	}
+
+.drop_menu1 { 
+	display: block;
+	visibility: visible;
+	width:250px;
+	height:1000px;
+	padding:5px 30px;
+	position: absolute;
+	right:0 !important;	
+	background-color:#fff !important;
+	 transition:all ease 0.5s;
+ 	border: 1px solid #ccc !important;
+	cursor: pointer;
+	}
+
+}
+
+@media all and (max-width:430px){
+.profile-head ul li {
+	font-size: 12px !important;
+	}
+.nav-menu li { 
+	width:50%;
+	}
+.bio-table>tbody>tr>td {
+	font-size: 13px;
+	}
+
+}
+
+
+.header-sec{
+	width: 100%;
+    position: relative;
+    float: left;
+}
+
+.list-user{
+	float: right;
+}
+
+.list-user li a{
+	color: #fff;
+	text-decoration: underline;
+	transition: color 0.4s;
+}
+
+.list-user li{
+	list-style: none;
+	float: left;
+	padding: 8px 10px 0px 10px;
+	color: #fff;
+}
+
+.list-user li button{
+	background: transparent;
+	border: none;
+	text-decoration: underline;
+	padding: 0;
+	transition: color 0.4s;
+}
+
+.sec-user{
+	background: #060606;
+}
+
+.list-user li a:hover{
+	color: #91dbf7;
+}
+.list-user li button:hover{
+	color: #91dbf7;
+}
+
+.det-ru{
+	padding-top: 8px;
+	padding-bottom: 8px;
+}
+
+
+/*MODAL DATOS USUARIO*/
+
+
+
+.section-general{
+	width: 100%;
+	float: left;
+	padding-top: 150px;
+}
+
+.widget .panel-body { padding:0px; }
+.widget .list-group { margin-bottom: 0; }
+.widget .panel-title { display:inline }
+.widget .label-info { float: right; }
+.widget li.list-group-item {border-radius: 0;border: 0;border-top: 1px solid #ddd;}
+.widget li.list-group-item:hover { background-color: rgba(86,61,124,.1); }
+.widget .mic-info { color: #666666;font-size: 11px; }
+.widget .action { margin-top:5px; }
+.widget .comment-text { font-size: 12px; }
+.widget .btn-block { border-top-left-radius:0px;border-top-right-radius:0px; }
+
+.dropdown-menu li a{
+	padding-top: 10px !important;
+	padding-bottom: 10px !important;
+	transition: all 0.4s;
+}
+
+.dropdown-menu li a:hover{
+	background-color: #000!important;
+	color: #fff;
+}
+
+footer{
+	width: 100%;
+	float: left;
+	color: #fff;
+	background-color: #000;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
